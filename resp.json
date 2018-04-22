@@ -1,0 +1,194 @@
+{
+    "created_at": "Mon May 16 07:39:51 +0000 2016",
+    "id": 732113317926469632,
+    "id_str": "732113317926469632",
+    "text": "Damn!!! https://t.co/DsEDWLHrJo",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/DsEDWLHrJo",
+                "expanded_url": "https://twitter.com/clickmediaprod/status/732113091564032000",
+                "display_url": "twitter.com/clickmediaprod…",
+                "indices": [
+                    8,
+                    31
+                ]
+            }
+        ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 830668860,
+        "id_str": "830668860",
+        "name": "Chris Kazadi",
+        "screen_name": "TheRealKazadi",
+        "location": "South Africa",
+        "description": "Entrepreneur & Founder of @ClickMediaProd. Events, PR, Media & Marketing Guy @adidas Brand Ambassador ✉️Christian@ClickMediaProd.Com",
+        "url": "https://t.co/hpBG8QSuMS",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/hpBG8QSuMS",
+                        "expanded_url": "http://www.therealkazadi.com",
+                        "display_url": "therealkazadi.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 35025,
+        "friends_count": 2654,
+        "listed_count": 94,
+        "created_at": "Tue Sep 18 09:16:26 +0000 2012",
+        "favourites_count": 2244,
+        "utc_offset": 10800,
+        "time_zone": "Athens",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 41315,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/976532546715602944/6hM9DJvN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/976532546715602944/6hM9DJvN_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/830668860/1522561646",
+        "profile_link_color": "91D2FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 732113091564032000,
+    "quoted_status_id_str": "732113091564032000",
+    "quoted_status": {
+        "created_at": "Mon May 16 07:38:57 +0000 2016",
+        "id": 732113091564032000,
+        "id_str": "732113091564032000",
+        "text": "UJ students decided to burn down e-labs . This affects IT students , computer labs , computer assistance jobs, GRADUATION CEREMONY!!!!!😢😢😢",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1925678041,
+            "id_str": "1925678041",
+            "name": "Simba Marumo",
+            "screen_name": "SimbaMarumo",
+            "location": "South Africa",
+            "description": "Author - Champion Millionaire; @supersporttv Commentator and Analyst, Football Freedom, Impact, Change, Legacy",
+            "url": "https://t.co/lxMMEEWkga",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/lxMMEEWkga",
+                            "expanded_url": "http://www.championmillionaire.com",
+                            "display_url": "championmillionaire.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2393,
+            "friends_count": 834,
+            "listed_count": 18,
+            "created_at": "Wed Oct 02 04:41:59 +0000 2013",
+            "favourites_count": 330,
+            "utc_offset": -25200,
+            "time_zone": "Pacific Time (US & Canada)",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 2888,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/844060643095384065/6yPBh5cY_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/844060643095384065/6yPBh5cY_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1925678041/1490074733",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 19,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "lang": "en"
+}
